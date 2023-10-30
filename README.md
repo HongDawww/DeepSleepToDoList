@@ -51,6 +51,20 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Slack&logoColor=black">
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=Slack&logoColor=white">
 
+# 화면 figma
+
+ ![6-서치1](https://github.com/HongDawww/DeepSleepToDoList/assets/142575028/c4c3d537-5344-4d3f-9b5e-9715a3405141)
+ ![딜리트](https://github.com/HongDawww/DeepSleepToDoList/assets/142575028/d38c9149-8410-4d45-a322-21749141067f)
+ ![메인](https://github.com/HongDawww/DeepSleepToDoList/assets/142575028/283c6a0c-1544-4232-bd25-d19f4788541b)
+ ![서치2](https://github.com/HongDawww/DeepSleepToDoList/assets/142575028/348b7e89-e955-4547-85ef-3a60780200fe)
+ ![서치3](https://github.com/HongDawww/DeepSleepToDoList/assets/142575028/aa027948-82c8-4ffc-bb85-0bedfc267636)
+ ![서치4](https://github.com/HongDawww/DeepSleepToDoList/assets/142575028/f7fadb99-06bb-4848-85d8-c6dd1be36f4a)
+ ![서치5](https://github.com/HongDawww/DeepSleepToDoList/assets/142575028/62f6e420-d8be-4812-82db-3ff21fae48cd)
+ ![1-햄버거](https://github.com/HongDawww/DeepSleepToDoList/assets/142575028/440976e1-f89b-4349-8733-39069a0e9662)
+ ![2-리스트](https://github.com/HongDawww/DeepSleepToDoList/assets/142575028/f4687c7d-fb94-4333-b894-db7a2c3e5628)
+ ![3-인서트](https://github.com/HongDawww/DeepSleepToDoList/assets/142575028/44035cd3-e796-4c14-b986-9e5477fa4eed)
+ ![4-디테일](https://github.com/HongDawww/DeepSleepToDoList/assets/142575028/d4c96121-d3d0-42ac-a520-00b6cfc254e2)
+ ![5-업데이트](https://github.com/HongDawww/DeepSleepToDoList/assets/142575028/7182c560-636b-4db5-a658-50038557257b)
 
 
 # 프로젝트 일정
